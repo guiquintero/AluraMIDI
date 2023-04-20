@@ -1,5 +1,6 @@
 # Alura MIDI
 
-Projeto desenvolvido junto ao curso de Front-end da Alura para praticar Javascript 
+Project developed with Alura's Front-end course to practice Javascript
 
-Link para melhor visualização: https://guiquintero.github.io/AluraMIDI/
+Link for better view: 
+https://guiquintero.github.io/AluraMIDI/
